@@ -1,0 +1,1 @@
+composite -gravity southwest -geometry +55+15 \( <(textimg -bwhite -g146,95,77,255 -F60 ?) -rotate +20 \) <(echo-sd --tanzaku ご注文は うさぎ ですか | sed 'y/-┷┏┓┗┛━/ 　＊＊＊＊　/' | textimg -bwhite -g146,95,77,255 -F40) /images/gochiusa.png
