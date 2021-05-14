@@ -1,2 +1,7 @@
 # shellgei-sandbox
+
 💩 ネタ系シェル芸置き場
+
+<img src="./img/ubuntu-boot.gif" alt="ubuntu"/>
+<img src="./img/super-hacker2.png" alt="super-hacker"/>
+<img src="./img/initial-d-lang-man.png" alt="d-lang-man"/>
