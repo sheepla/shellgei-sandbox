@@ -1,0 +1,1 @@
+textimg $'\n ☕ ' -F100 -b70,54,39,255 | composite -geometry +10+10 -gravity center <(textimg '💩' -z -F70 -b0,0,0,0) - - | composite -gravity North -geometry +0+40 <(textimg $'※これはただの\nクリームコーヒーです。' -F15 -g226,208,164,255 -b0,0,0,0) - - >/images/_ #シェル芸

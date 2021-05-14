@@ -1,0 +1,1 @@
+<< $'\n🍺\nHomebrew\n3.0.0\n' align center -n 15 | textimg -F100 -g245,221,177,255 -b43,43,33,255 | composite -gravity South -geometry +0+50 <(textimg $'The missing package manager\nfor macOS (or Linux)' -g245,211,177,255 -b0,0,0,0 -F30) - /images/_ #シェル芸
