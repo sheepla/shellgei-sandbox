@@ -2,6 +2,8 @@
 
 💩 ネタ系シェル芸置き場
 
+画像系が多めです
+
 <img src="./img/ubuntu-boot.gif" alt="ubuntu"/>
 <img src="./img/evangelion-shito.png" alt="evangelion-shito"/>
 <img src="./img/super-hacker2.png" alt="super-hacker"/>
